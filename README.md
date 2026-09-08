@@ -1,0 +1,1 @@
+⚡ NEON NEXUS es una experiencia web futurista desarrollada con HTML, CSS y JavaScript, que combina animaciones neon, efectos visuales, partículas interactivas, tarjetas 3D, modo oscuro/claro y un diseño responsive. Un proyecto creado para experimentar con desarrollo web moderno y darle una apariencia cyberpunk y tecnológica.
